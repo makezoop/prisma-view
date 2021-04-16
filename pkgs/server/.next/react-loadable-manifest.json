@@ -1,0 +1,442 @@
+{
+  "../client/Diagram": [
+    {
+      "id": "./client/Diagram.tsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/nonIterableRest.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/slicedToArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/Context/DiagramContext.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/Diagram/Diagram.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/Diagram/DiagramCanvas/DiagramCanvas.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/Diagram/DiagramNode/DiagramNode.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/Diagram/DiagramNode/getDiagramNodeStyle.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/Diagram/DiagramNode/portGenerator.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/Diagram/Link/Link.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/Diagram/Link/LinkLabel.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/Diagram/Link/getEntityCoordinates.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/Diagram/LinksCanvas/LinksCanvas.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/Diagram/LinksCanvas/findInvolvedEntity.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/Diagram/LinksCanvas/removeLinkFromArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/Diagram/NodesCanvas/NodesCanvas.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/Diagram/NodesCanvas/updateNodeCoordinates.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/Diagram/Port/Port.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/Diagram/Segment/Segment.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/_virtual/_rollupPluginBabelHelpers.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/hooks/useSchema/actionTypes.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/hooks/useSchema/schemaReducer.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/hooks/useSchema/useSchema.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/shared/Errors.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/shared/Types.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/shared/functions/createSchema.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/shared/functions/ensureNodeId.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/shared/functions/getNodePortsId.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/shared/functions/getPathMidpoint.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/shared/functions/getRelativePoint.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/shared/functions/makeSvgPath.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/shared/functions/validators.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/shared/internal_hooks/useCanvas.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/shared/internal_hooks/useContextRegistration.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/shared/internal_hooks/useDrag.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/shared/internal_hooks/useNodeRefs.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/shared/internal_hooks/useNodeUnregistration.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/esm/shared/internal_hooks/usePortRefs.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-diagrams/styles.css",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/_virtual/_rollupPluginBabelHelpers.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useConditionalTimeout.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useDebouncedFn.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useDefaultedState.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useDidMount.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useDrag.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useDragEvents.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useDropZone.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useGeolocation.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useGeolocationEvents.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useGeolocationState.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useGlobalEvent.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useInterval.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useLifecycle.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useLocalStorage.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useMediaQuery.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useMouse.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useMouseEvents.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useMouseState.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useObservable.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useOnlineState.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/usePreviousValue.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useRenderInfo.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useRequestAnimationFrame.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useResizeObserver.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useSessionStorage.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useSpeechSynthesis.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useStorage.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useSystemVoices.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useThrottledFn.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useTimeout.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useValidatedState.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useValueHistory.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useViewportSpy.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useWillUnmount.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useWindowResize.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/useWindowScroll.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/utils/createCbSetterErrorProxy.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/utils/createHandlerSetter.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/utils/geolocationStandardOptions.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/utils/hasOwnProperty.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/utils/isAPISupported.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/utils/isClient.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/utils/isDevelopment.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/utils/isSamePosition.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/utils/makePositionObject.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/beautiful-react-hooks/esm/utils/safelyParseJson.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/classnames/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash.debounce/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash.findindex/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash.isequal/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash.throttle/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/build/webpack/loaders/next-style-loader/runtime/injectStylesIntoStyleTag.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/compiled/css-loader/api.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/compiled/css-loader/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/cjs.js?!./node_modules/beautiful-react-diagrams/styles.css",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/compiled/webpack/global.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/process/browser.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/prop-types/checkPropTypes.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/prop-types/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-is/cjs/react-is.development.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/react-is/index.js",
+      "file": "static/chunks/1.js"
+    }
+  ],
+  "./dev/noop": [
+    {
+      "id": "./node_modules/next/dist/client/dev/noop.js",
+      "file": "static/chunks/0.js"
+    }
+  ]
+}
